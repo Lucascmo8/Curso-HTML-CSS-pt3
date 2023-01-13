@@ -8,7 +8,8 @@
 <dl>- Clonagem de Repositório</dl>
 <dt>* Propriendades do background</dt>
 <dt>* Projeto Cordel Utilizando Paralax</dt>
-<dl>- </dl>
+<dd>- <a href="https://lucascmo8.github.io/Curso-HTML-CSS-pt3/capitulo20/cordel.html" target="_blank">Projeto Cordel</a></dd>
 <dt>* Tabelas</dt>
-<dl>- </dl>
+<dd>- <a href="https://lucascmo8.github.io/Curso-HTML-CSS-pt3/capitulo21/Desafiotabela1.html" target="_blank">Desafio 1 (Tabela Personalizada)</a></dd>
+<dd>- <a href="https://lucascmo8.github.io/Curso-HTML-CSS-pt3/capitulo21/Desafiotabela2.html" target="_blank">Desafio 2 (Tabela de notas)</a></dd>
 </dl>
